@@ -12,3 +12,9 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [X] Finish Part 1 of the HW
+- [X] Finish Part 2 Step 1 of the HW 
+- [ ] Finish Part 2 Step 2 of the HW 
+- [ ] Finish Part 2 Step 3 of the HW 
+- [ ] Finish Part 2 Step 4 of the HW 
